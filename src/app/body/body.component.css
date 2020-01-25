@@ -1,0 +1,11 @@
+#message
+{
+  height: 300px;
+  border-color: black;
+  color: #000;
+}
+button{
+  width: 200px;
+  background-color: blue;
+  color: white;
+}
